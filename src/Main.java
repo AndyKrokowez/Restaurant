@@ -10,6 +10,8 @@ public class Main {
 		Customer c2 = new Customer();
 		Customer c3 = new Customer("Antonio", "985142064");
 		
+		//testing Github and looks cool
+		
 		System.out.println(c1.getName());
 		System.out.println(c1.getNumber());
 		
